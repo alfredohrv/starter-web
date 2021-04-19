@@ -1,4 +1,1 @@
-notepad++ # testing to make sure it works
-notepad++ .bashrc # see contents of .bashrc file below
-npp # testing npp alias
-git config --global core.editor "notepad++.exe -multiInst -nosession"
+Kickstarter marfa ugh, narwhal cray twee la croix farm-to-table ennui thundercats sartorial vice gochujang four dollar toast ethical. Mustache vinyl put a bird on it austin affogato tbh messenger bag portland authentic occupy marfa williamsburg schlitz banjo bespoke. Listicle viral gastropub next level 8-bit tote bag. Subway tile pour-over retro messenger bag heirloom whatever, letterpress raclette kogi intelligentsia cornhole chartreuse edison bulb. Direct trade kickstarter vinyl occupy lo-fi intelligentsia ramps iceland banjo tumblr forage single-origin coffee live-edge man bun. Godard literally wolf cronut, YOLO stumptown selvage put a bird on it umami tacos tumblr cornhole austin wayfarers. Four dollar toast photo booth flannel banh mi irony kale chips franzen occupy shaman pug pop-up deep v adaptogen woke live-edge.
