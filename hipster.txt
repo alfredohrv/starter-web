@@ -1,0 +1,4 @@
+notepad++ # testing to make sure it works
+notepad++ .bashrc # see contents of .bashrc file below
+npp # testing npp alias
+git config --global core.editor "notepad++.exe -multiInst -nosession"
